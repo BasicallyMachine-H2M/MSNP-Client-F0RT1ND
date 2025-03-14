@@ -8,6 +8,6 @@ It's still a very work in progress.
 
 The default addresses point to Escargot's server, a MSN/WLM server recreation.
 
-## Links and docs
-https://gitlab.com/escargot-chat/server/-/wikis/protocol-docs
+# Forked by me.
+It's been forked.
 
